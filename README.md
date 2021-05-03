@@ -1,5 +1,5 @@
-# MercadoLibre challenge: Frontend
-Created with NestJS Node.js framework.
+# MercadoLibre challenge: Backend
+Created with NestJS Node.js framework and testing with Jest.
 
 ## Installation
 ```bash
